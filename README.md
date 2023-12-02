@@ -1,2 +1,3 @@
 # CCFCSP
-用Python语言写的CCFCSP往年真题题解与解析
+#CCFCSP往年真题Python题解与解析
+#本人很菜，大部分题只做到前三题，但是仍在努力奋斗中。
